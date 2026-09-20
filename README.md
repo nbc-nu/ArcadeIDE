@@ -32,7 +32,7 @@ will allow you to embed your arcade, and will remove the startup logo that
 apears in the screen when you aren´t using the API and remove the header with
 ArcadeIDE two.
 Exemple: <pre>https://nbc-nu.github.io/ArcadeIDE/embed?code=draw.pixel(1,1);
-when you open this link, it will show an pixel at 1x 1y!
+when you open this link, it will show an pixel at 1x 1y!</pre>
 
 ----------------------------------------------------------------------------------------
 
